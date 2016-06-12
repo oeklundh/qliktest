@@ -1,0 +1,20 @@
+This is a complete documentation of the Hello application. 
+Main features are described and usage of the application is presented.
+The application is currently at version [version].
+
+Main features
+When running Hello [version] the user is presented with the text "Hello World" on stdout.
+This feature means that text can be read at the mere press of a button.
+
+History
+[version]
+1.0.8
+1.0.7
+1.0.6
+1.0.5
+1.0.4
+1.0.3
+1.0.2
+1.0.1
+1.0.0
+

@@ -1,0 +1,13 @@
+/*------------------------------------------------------------------------------------------------
+       This source code is licensed under the terms of a separate signed license agreement.
+       This code is provided "as is", with all faults, and may not be free of defects or errors.
+       Our company is under no obligation to correct errors or update this code.  No support or
+       maintenance services related to this code is provided except per a separate written
+       support agreement with our company.  ALL EXPRESS OR IMPLIED REPRESENTATIONS AND WARRANTIES,
+       INCLUDING ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUALITY,
+       WORKMANLIKE EFFORT, TITLE OR NON-INFRINGEMENT, OR ARISING FROM COURSE OF DEALING, COURSE OF
+       PERFORMANCE OR TRADE PRACTICE, ARE HEREBY DISCLAIMED. Our company is under no obligation to further
+       the development of or commercially license this code. The user of this code hereby waives
+       any claims or damages arising from use thereof or from any claims of incompatibility.
+       Copyright (C) 2012 Pyttemjuk AB.
+------------------------------------------------------------------------------------------------*/

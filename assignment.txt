@@ -1,0 +1,25 @@
+Scenario:
+
+You are presented with the source code, tests and documentation for a product. 
+The product is at an early state but will soon expand to include more source code, documentation and proper tests.
+
+Assignment:
+
+The product needs a build system that can do the following fully automatic when that source code changes :
+
+•	Compile the source code into a library.
+•	Run the tests present in the /tests folder.
+•	Package a release containing the library, the include folder and documentation. The tests should also be run and verified in this step.
+
+When it comes to the documentation some extra work is needed. 
+The next product release will be of the version specified in /doc/version.txt. Therefore all strings in the documentation 
+called "[version]" need to be replaced with the string present in the version file. The title of the documentation file also 
+needs to be updated to the correct version. Also there is a copyright text in a separate file that need to be prepended in 
+the documentation file.
+
+Use any build system for compiling and linking C code. Ensure that all tasks are automated. You may choose either Linux, Windows or Mac OS as platform.
+
+Good luck!
+
+Any questions about the assignment? 
+Please ask Pär Lindfors, par.lindfors@qlikview.com.
